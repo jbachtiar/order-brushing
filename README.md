@@ -15,7 +15,7 @@ Concentrate rate = No. of orders within 1 hour/ Number of unique buyers within 1
 
 For the purpose of this challenge, suspicious buyers are the one who contributed the highest proportion of orders to a shop that has been deemed to have conducted order brushing. In the case where there are more than 1 suspicious buyers, all those users have to be identified and recorded.
 
-Input data description : 
+Input data description (order.csv) : 
 - Each orderid represents a distinct transaction
 - Each unique shopid is a distinct seller
 - Each unique user is a distinct buyer
